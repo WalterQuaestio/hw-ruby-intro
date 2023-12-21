@@ -1,5 +1,10 @@
 # When done, submit this entire file to the autograder.
 
+"""
+Name : Thanakorn Thanakarn 
+ID : 651301023
+"""
+
 # Part 1
 
 def sum arr
