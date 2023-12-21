@@ -3,7 +3,7 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+
   unless arr.all? { |elem| elem.is_a?(Integer) }
     puts "Please enter an array of numbers."
     return
